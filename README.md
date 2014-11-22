@@ -65,7 +65,7 @@ You can add several tags to a log line.
 New user added in MongoDb #useraccount #database 
 ```
 
-You can also create a hash hierarcy, by chaining several words by a comma (.). 
+You can also create a hash hierarcy, by chaining several words separated by dots `.`. 
 The following log line will be identified as containing #db and #db.mongo tags.
 
 ```
