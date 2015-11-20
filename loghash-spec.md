@@ -202,4 +202,9 @@ development framework/language.
 @{"__e":"http","d":{"url":"http://api.dz.com/artist/42","statuscode":200}}
 @{"__ee":"android.activity.lifecycle","d":{"name":"feedactivity","status":"created"}}
 @{"__e":"log","l":"#userviewmodel User logged in @{"userid":42,"status":"premiumplus"}", "c":[ {"device.type":"android"},{"os.version":"4.1.3.45"},]}
-``` 
+```
+
+## Platform-specific logs
+
+In the future, we can extend loghash markup language with platform-specific Custom events.
+Samples to come in the future.
