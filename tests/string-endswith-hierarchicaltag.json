@@ -1,0 +1,17 @@
+{
+  "tokens":[
+    {"type":"text", "content":"This string contains one "},
+    {"type":"tag", "content":"hierarchical.hashtag"}
+  ],
+  "items":{
+    "tags": ["hierarchical.hashtag"]
+  }
+}
+// Line ends with #
+// a # alone
+// two # side-by-side #one#two
+// #one is identical to #one
+// #one.subone
+// @id:1
+// @username:"aurore"
+//

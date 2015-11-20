@@ -1,0 +1,9 @@
+{
+  "tokens":[
+    {"type":"tag", "content":"start"},
+    {"type":"text", "content":" a string with a hashtag"}
+  ],
+  "items":{
+    "tags": ["start"]
+  }
+}

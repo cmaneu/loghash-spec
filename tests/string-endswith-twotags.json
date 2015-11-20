@@ -1,0 +1,10 @@
+{
+  "tokens":[
+    {"type":"text", "content":"This string contains "},
+    {"type":"tag", "content":"two"},
+    {"type":"tag", "content":"hashtag"}
+  ],
+  "items":{
+    "tags": ["two", "hashtag"]
+  }
+}

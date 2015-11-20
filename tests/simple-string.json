@@ -1,0 +1,7 @@
+{
+  "tokens":[
+    {"type":"text", "content":"This string is like any other string. No loghash-specific items."}
+  ],
+  "items":{
+  }
+}
