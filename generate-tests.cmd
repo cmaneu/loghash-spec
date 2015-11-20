@@ -1,0 +1,1 @@
+.\bin\loghash-testgen.exe tests.md tests
