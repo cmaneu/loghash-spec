@@ -14,4 +14,4 @@ These files are generated from `tests.md` file by `loghash-testgen` generator.
 
 ## Talks about Loghash
 
-To be completed
+<script async class="speakerdeck-embed" data-id="f13fa76409ff4aa5a79395b51d8a6613" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
